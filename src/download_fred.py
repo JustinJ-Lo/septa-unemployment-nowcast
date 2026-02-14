@@ -19,7 +19,7 @@ RAW_DIR.mkdir(parents=True, exist_ok=True)
 
 # Placeholder series used to validate the pipeline end-to-end.
 # This will be replaced with the Philadelphia MSA unemployment series.
-FRED_SERIES_ID = "UNRATE"
+FRED_SERIES_ID = "PHIL942UR"
 
 
 # ---------------------------------------------------------------------

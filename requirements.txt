@@ -6,3 +6,4 @@ scikit-learn
 requests
 pandas-datareader
 jupyter
+openpyxl

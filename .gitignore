@@ -211,3 +211,6 @@ __marimo__/
 data/raw/
 data/interim/
 .ipynb_checkpoints/
+data/processed/
+results/backtest_predictions.csv
+
